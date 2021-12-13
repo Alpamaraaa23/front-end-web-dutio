@@ -2,10 +2,11 @@ RENCANA KONTEN DUTIO
 
 - Javascript
   * ES6
-  * Framework
-    ^ Angular
-    ^ React
+  * ReactNative
+   ^ Vue
+- Struktur Data Dasar
 - PHP Framework
  ^ Laravel
 - Interview
 - Vlogs
+- Python
