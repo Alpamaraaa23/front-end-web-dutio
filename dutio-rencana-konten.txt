@@ -3,7 +3,10 @@ RENCANA KONTEN DUTIO
 - Javascript
   * ES6
   * ReactNative
+   ^ Vue
 - Struktur Data Dasar
 - PHP Framework
+ ^ Laravel
 - Interview
 - Vlogs
+- Python
